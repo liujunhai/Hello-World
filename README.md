@@ -1,2 +1,5 @@
 # Hello-World
-I am just an outsider of programming
+
+Hi there!
+
+JunHai here, just an outsider of programming!
